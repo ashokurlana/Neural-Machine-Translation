@@ -1,2 +1,2 @@
-# Badhanu_paper_implementation
-This shows the implementation of sequence sequence machine translation model
+# Machine Translation
+This repository shows the implementation of sequence sequence machine translation model
